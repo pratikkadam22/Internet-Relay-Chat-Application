@@ -1,5 +1,5 @@
 # server_chat.py allows multiple client to connect
-# Sushmitha Shridhar
+# Pratik Kadam
 
 import select, socket, sys, pdb
 from util_chat import ChatHall, Room, ChatMember

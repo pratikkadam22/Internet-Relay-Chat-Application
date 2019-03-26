@@ -1,5 +1,5 @@
 #handles all functionalities such as join , leave , switch room , sending personal message.
-#Sushmitha Shridhar
+#Pratik Kadam
 import socket, pdb, sys
 
 MAX_CLIENTS = 30

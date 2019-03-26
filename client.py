@@ -1,5 +1,5 @@
 # client code to connect to server
-#Sushmitha Shridhar
+#Pratik Kadam
 import select, socket, sys
 from util_chat import Room, ChatHall, ChatMember
 import util_chat
